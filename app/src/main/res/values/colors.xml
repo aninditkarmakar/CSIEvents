@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Taken from https://www.google.co.in/design/spec/style/color.html#color-color-palette -->
+
+    <!-- Indigo 500 -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Indigo 700 -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Grey A200 -->
+    <color name="colorAccent">#EEEEEE</color>
+</resources>
